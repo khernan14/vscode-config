@@ -1,0 +1,78 @@
+{
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "workbench.sideBar.location": "right",
+  "workbench.editor.showTabs": "single",
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.minimap.enabled": false,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.overviewRulerBorder": false,
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.formatOnSave": true,
+  "editor.guides.indentation": false,
+  "indenticator.width": 0.1,
+  "indenticator.color.dark": "rgba(255, 255, 255, 0.09)",
+  "[python]": {
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.formatOnType": true,
+    "editor.wordBasedSuggestions": "off",
+    "editor.defaultFormatter": "eeyore.yapf"
+  },
+  "editor.matchBrackets": false,
+  "breadcrumbs.enabled": false,
+  "editor.glyphMargin": false,
+  "symbols.hidesExplorerArrows": false,
+  "tabnine.experimentalAutoImports": true,
+  "workbench.activityBar.location": "top",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "terminal.integrated.fontFamily": "FiraCode Nerd Font Mono",
+  "terminal.integrated.fontSize": 14,
+  // "vscode_custom_css.imports": [
+  //   "file:///C:/Users/noram/vscode/custom.css",
+  //   "file:///C:/Users/noram/vscode/custom.js"
+  // ],
+  "window.customTitleBarVisibility": "auto",
+  "prettier.bracketSameLine": true,
+  "notebook.defaultFormatter": "eeyore.yapf",
+  "window.menuBarVisibility": "toggle",
+  "mssql.enableRichExperiences": true,
+  "remote.portsAttributes": {
+    "3008": {
+      "protocol": "https"
+    }
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "mssql.connectionGroups": [
+    {
+      "name": "ROOT",
+      "id": "63F3B440-1A63-4365-B9D1-4BAEBB06950D"
+    }
+  ],
+  "mssql.connections": [],
+  "mssql.autoDisableNonTSqlLanguageService": true,
+  "workbench.secondarySideBar.defaultVisibility": "visible",
+  "containers.containerClient": "com.microsoft.visualstudio.containers.docker",
+  "containers.orchestratorClient": "com.microsoft.visualstudio.orchestrators.dockercompose",
+  "editor.aiStats.enabled": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "js/ts.updateImportsOnFileMove.enabled": "always",
+  "[django-txt]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "git.openRepositoryInParentFolders": "never",
+  "xml.foldings.includeClosingTagInFold": true,
+  "explorer.compactFolders": false
+}
